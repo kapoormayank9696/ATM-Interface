@@ -177,7 +177,7 @@ This project is created for learning and educational purposes.
 
 # 👨‍💻 Author
 
-# **Mayank Kapoor**
+**Mayank Kapoor**
 
-# **GitHub: https://github.com/kapoormayank9696**
+**GitHub: https://github.com/kapoormayank9696**
 
