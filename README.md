@@ -1,7 +1,6 @@
 # 🏧 ATM Interface
 
 A simple **Java Console-Based ATM Interface** developed using **Object-Oriented Programming (OOP)** concepts. This project simulates basic ATM operations such as depositing money, withdrawing money, and checking the account balance with PIN verification.
-
 ---
 
 # 🚀 Features
